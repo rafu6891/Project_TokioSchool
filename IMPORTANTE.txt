@@ -1,0 +1,13 @@
+
+-Crear un entorno virtual
+
+-Instalar desde el terminar el documento requirements.txt
+
+-Usar pip install -r requirements.txt para instalar las dependencias necesarias.
+
+--------------------------------------------------------------------
+
+En el proyecto hay un usuario predefinido que es el administrador, 
+	tiene dado ya un usuario y contraseña 
+	usuario: admin	
+	password: 987654321

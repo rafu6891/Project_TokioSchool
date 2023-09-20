@@ -1,0 +1,4 @@
+SQLAlchemy~=2.0.16
+Flask~=2.3.2
+Werkzeug~=2.3.4
+DateTime~=5.1
